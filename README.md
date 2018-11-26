@@ -19,17 +19,18 @@
   * [종료된 행사](#closed-event)
 
 ## Top Notice
-- [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
-- [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
+
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
 - [인하대학교 미래인재개발원 게임개발 공모전](https://blog.naver.com/inhahrdgame/221375468205) : 12.28(금)
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 
 ***
-- [Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)
-- [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
-- [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
+
+- [인디게임위크엔드 2018](https://www.onoffmix.com/event/158384) : 11.30(금) ~ 12.02(일)
+- [회사에서 인정받는 개발자의 생존전략 48기](https://cafe.naver.com/amunamuna/7266) : 12.02(일)
+- [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
+- [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
 
 ***
 
@@ -97,6 +98,9 @@
 
 ### Closed Event
 
+- ~~[Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)~~
+- ~~[NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)~~
+- ~~[국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)~~
 - ~~[vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)~~
 - ~~[IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)~~
 - ~~[삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)~~
@@ -118,4 +122,5 @@
 - ~~[2018 불법스포츠 도박 근절 해커톤 대회](http://www.sportshackathon.kr/) : 9.20(목) ~ 10.2(화)~~
 - ~~[2018 서울시 앱 공모전](https://mplatform.seoul.go.kr/w/index.do) : 6.1(금) ~ 9.30(일)~~
 - ~~[삼성서울병원 제 3회 디지털 헬스 해커톤](https://digitalhealthhack.org/) : 접수 9.3(월) ~ 9.30(일)~~
+
 ***
